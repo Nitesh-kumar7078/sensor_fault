@@ -4,7 +4,7 @@ setup(
     name="src",
     version="0.0.1",
     author="nitesh kumar",
-    author_email="cloud@ineuron.ai",
+    author_email="niteshsingh707880@gmil.com",
     packages=find_packages(),
     install_requires=[],
 )
